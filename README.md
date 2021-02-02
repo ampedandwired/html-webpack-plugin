@@ -373,7 +373,8 @@ and the following options:
   removeRedundantAttributes: true,
   removeScriptTypeAttributes: true,
   removeStyleLinkTypeAttributes: true,
-  useShortDoctype: true
+  useShortDoctype: true,
+  minifyCSS: true
 }
 ```
 
